@@ -12,4 +12,6 @@ export class BasicosComponent{
   nombreUpper: string = 'FERNANDO';
   nombreCompleto: string = 'aLExandeR lIMa';
 
+  fecha: Date = new Date(); //Usar momentJS
+
 }
